@@ -66,9 +66,12 @@ barplot(major_count, xlab="Category Count", col = "yellow" , xlim=c(0,35), horiz
 title(main="Major Category Distribution", font=12)
 
 
+# Export data 
+write.table(df,file="C:\\Users\\Eduardo Cantu\\Documents\\Masters\\Doing_Data_Science\\Homework\\SMU_MSDS_HW\\Week04\\collegeRecent.csv",row.names=FALSE, sep=",")
+
 ```
 
   
 
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+GitHub Link to for this Homework:  
+[https://github.com/ecantu75/SMU_MSDS_HW.git](https://github.com/ecantu75/SMU_MSDS_HW.git)
