@@ -4,4 +4,4 @@
 ### Term: Spring 2018
 
 ## Objective
-This repo is to store the homework for the Doing Data Science class with Dr. Santarre.
+This repo is to store the homework for the Doing Data Science class with Dr. Santerre.
